@@ -6,7 +6,7 @@ It contains the technologies you need to use when you run the project.
 
 #### b-) .NET Framework | [SDK  8.0.204](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)|
 
-#### → Project assignment submission date {dd/mm/yy} 16.04.24 
+#### → Project assignment submission date {dd/mm/yy} 16.04.24 Istanbul / Mecidiyeköy
 #### → (KVKK) No authorized person or employee, including the admin, can view the customer's password.
 #### → Customers must be over 16 years old, otherwise the application will give an error.
 
