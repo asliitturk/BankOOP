@@ -1,10 +1,10 @@
 # Project Setup & Supports
 It contains the technologies you need to use when you run the project.
 
-#### a-) VisualStudio 2022 { are used [VSVersion 17.10](https://visualstudio.microsoft.com/tr/downloads/)} 
+#### a-) VisualStudio 2022 | are used [VSVersion 17.10](https://visualstudio.microsoft.com/tr/downloads/)|
 
 
-#### b-) .NET Framework { [SDK  8.0.204](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)}
+#### b-) .NET Framework | [SDK  8.0.204](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)|
 
 #### → Project assignment submission date {dd/mm/yy} 16.04.24 
 #### → (KVKK) No authorized person or employee, including the admin, can view the customer's password.
